@@ -27,19 +27,20 @@ Building scalable web & mobile products with modern UI, smooth animations & AI i
 
 ⚙️ Current Focus
 
-* Scalable mobile-first applications
+* Scalable mobile-web applications
 * Real-time systems & API performance
 * Clean UI with smooth animations
 * AI-powered features & integrations
 
 ---
 
- 📂 Featured Projects
+ ## 📂 Featured Projects
 
-* 📱 Construction Management App
-* 🏥 Doctor Appointment System
-* 🛒 E-commerce Platform
-* ✈️ Travel & Package Booking System
+ 🎓 EDVORA LMS Platform
+An online learning platform delivering **1:1 mentorship for KG–12 students**, featuring demo class booking, mentor selection, class scheduling, progress tracking, parent monitoring, and full administrative control.
+
+ 💳 BESEP Platform
+Besep is a **travel savings & payment platform** where users enroll in structured monthly schemes, make secure payments, and unlock curated travel packages. It includes a hierarchical agent & branch system with commission-based earnings, enabling a scalable micro-earning ecosystem.
 
 ---
 
